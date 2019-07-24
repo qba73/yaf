@@ -1,5 +1,5 @@
 # yaf
-Yet Another Forecast. A minimalistic weather forecast Go library and cli application.
+Yet Another Forecast. A minimalistic weather forecast library and a cli app.
 
 
 Weather forecast data from Yr, delivered by the [Norwegian Meteorological Institute and the NRK](http://om.yr.no/verdata/free-weather-data/).
